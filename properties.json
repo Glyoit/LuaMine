@@ -1,0 +1,5 @@
+{
+motd: "My LuaMine Server"
+ip: 0.0.0.0
+port: 19132
+enable-query: true
