@@ -1,0 +1,15 @@
+{
+lua-band: {
+          enabled: false
+          lobby-server: true
+          servers: {
+                   1: {
+                      ip: "0.0.0.0"
+                      port: 19132
+                      }
+                   }
+         }
+-- Settings
+enable-redstone: false
+mobs: false
+}
