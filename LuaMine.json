@@ -9,7 +9,7 @@ lua-band: {
                       }
                    }
          }
--- Settings
+# Settings
 enable-redstone: false
 mobs: false
 }
