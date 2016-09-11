@@ -1,5 +1,17 @@
 {
-motd: "My LuaMine Server"
-ip: 0.0.0.0
-port: 19132
-enable-query: true
+"motd": "My LuaMine Server",
+"ip": "0.0.0.0",
+"port": "19132",
+"enable-query": "true",
+"enable-rcon": "false",
+"white-listed": "false",
+"spawn-animals": "true",
+"spawn-mobs": "true",
+"force-gamemode": "false",
+"pvp": "true",
+"difficulty": "1",
+"generator-settings": "",
+"level-seed": "",
+"rcon.password": "",
+"auto-save": "true"
+}
