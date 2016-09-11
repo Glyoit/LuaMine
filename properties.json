@@ -1,6 +1,6 @@
 {
 "motd": "My LuaMine Server",
-"ip": "000.0",
+"ip": "0.0.0.0",
 "port": "19132",
 "enable-query": "true",
 "enable-rcon": "false",
