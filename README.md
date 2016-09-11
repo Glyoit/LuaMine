@@ -1,2 +1,2 @@
-## LuaMine
-# A MCPE Server Software written in Lua using Luvit!
+# LuaMine
+## A MCPE Server Software written in Lua using Luvit!
