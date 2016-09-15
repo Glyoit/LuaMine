@@ -9,7 +9,7 @@
 -- @website LuaMine.ml
 
 print('-------------------')
-print('LuaMine is starting.........')
+print('LuaMine is starting...')
 print('-------------------')
 
 
