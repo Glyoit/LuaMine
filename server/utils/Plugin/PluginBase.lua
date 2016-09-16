@@ -15,6 +15,10 @@ end
 
 function this.getLogger:success(text)
      local pretty-print = require('pretty-print')
-     pretty-print.prettyPrint('['..pluginName..'] '..text)
+     pretty-print.colorize('success', '['..pluginName..'] '..text)
 end
 
+function this.getLogger:error(text)
+     local pretty-print = require('pretty-print')
+     pretty-print('err', '['..pluginName..'] '..text)
+end
