@@ -5,5 +5,5 @@ return {
   homepage = "http://LuaMine.ml",
   description = "Run a MCPE server in Lua using Luvit!",
   tags = { "LuaMine", "MCPE" },
-  author = { name = "Dog2puppy" }
+  author = { name = "LuaMine" }
 }
