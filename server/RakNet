@@ -8,4 +8,13 @@
 -- @author LuaMine Team
 -- @website LuaMine.ml
 
+'use strict';
+
 require("raknet")
+
+try {
+    console.log(require.resolve("raknet"));
+} catch(e) {
+    console.error("RakNet is required, please install it!");
+    process.exit(e.code);
+}
